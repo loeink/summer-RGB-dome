@@ -1,0 +1,44 @@
+PHLoger
+Started
+----------
+Alpha ABS version
+1.2
+----------
+Alpha ABS build
+1044
+----------
+Help and support
+https://discord.gg/8EE6PMv
+----------
+Patreon page
+https://www.patreon.com/KageDesu
+----------
+TypeError
+TypeError: Cannot read property '0' of undefined
+    at Function._.getSpellControllerSettings (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_build_1044.js:4772:37)
+    at new AASpelllPanelManager (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_build_1044.js:4957:31)
+    at new AASpellPanelManagerMenu (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_build_1044.js:27532:7)
+    at Window_EventItem.Window_ItemList.initialize (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_build_1044.js:27245:22)
+    at Window_EventItem.initialize (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_windows.js:4179:42)
+    at new Window_EventItem (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_windows.js:4169:21)
+    at Window_Message.createSubWindows (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_windows.js:4277:24)
+    at Window_Message.initialize (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_windows.js:4252:10)
+    at new Window_Message (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_windows.js:4239:21)
+    at Scene_Map.createMessageWindow (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_scenes.js:749:27)
+----------
+ERROR!
+Using AlphaABS [Version: 1.2 ; Build: 1044 ; on MV  1.6.1]
+----------
+ERROR!
+TypeError: Cannot read property '0' of undefined
+    at Function._.getSpellControllerSettings (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_build_1044.js:4772:37)
+    at new AASpelllPanelManager (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_build_1044.js:4957:31)
+    at new AASpellPanelManagerMenu (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_build_1044.js:27532:7)
+    at Window_EventItem.Window_ItemList.initialize (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_build_1044.js:27245:22)
+    at Window_EventItem.initialize (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_windows.js:4179:42)
+    at new Window_EventItem (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_windows.js:4169:21)
+    at Window_Message.createSubWindows (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_windows.js:4277:24)
+    at Window_Message.initialize (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_windows.js:4252:10)
+    at new Window_Message (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_windows.js:4239:21)
+    at Scene_Map.createMessageWindow (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_scenes.js:749:27)
+----------

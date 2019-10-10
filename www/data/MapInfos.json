@@ -1,0 +1,12 @@
+[
+null,
+{"id":1,"expanded":true,"name":"八字桥","order":3,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":2,"expanded":true,"name":"工会","order":4,"parentId":1,"scrollX":528.5,"scrollY":434.5},
+{"id":3,"expanded":true,"name":"住宅1F-阿超","order":6,"parentId":1,"scrollX":441.5,"scrollY":319.5},
+{"id":4,"expanded":true,"name":"余姚北站","order":1,"parentId":0,"scrollX":492,"scrollY":321},
+{"id":5,"expanded":false,"name":"余姚北站","order":2,"parentId":4,"scrollX":1284.5,"scrollY":312.5},
+{"id":6,"expanded":true,"name":"住宅2F-阿超","order":7,"parentId":3,"scrollX":449.5,"scrollY":319.5},
+{"id":7,"expanded":false,"name":"破舊寺庙","order":9,"parentId":1,"scrollX":446.5,"scrollY":311.5},
+{"id":8,"expanded":false,"name":"7-11超市","order":5,"parentId":2,"scrollX":449.5,"scrollY":319.5},
+{"id":9,"expanded":true,"name":"住宅1F1-仓库","order":8,"parentId":3,"scrollX":449.5,"scrollY":319.5}
+]
